@@ -11,6 +11,9 @@ Welcome to my data science project portfolio! This repository showcases a collec
 ### 2. [E-Commerce Retail Analysis](RetailAnalysis-SportsClothing.pdf)
    **Description**: In the expansive sports clothing industry valued at $193 billion, the project aimed to optimize the retail revenue of an online sports apparel company. Techniques such as aggregation, cleaning, labelling, and CTE were employed to derive actionable insights for enhancing revenue. Tools Used: SQL
 
+### 3. [Blendo Games](BlendoGamesAnalysis.pdf)
+   **Description**: Blendo Games, an indie gaming company founded in 2009, specializes in creating unique and humorous video games. Leveraging platforms such as Steam and direct digital distribution, it optimizes revenue streams, while seeking to enhance its marketing strategies through PPC advertising across multiple publishers to maximize revenue generation.
+   - [Jupyter Notebook](BlendoGames.ipynb)
 ---
 
 These projects cover a range of topics and methodologies, including data cleaning, exploratory data analysis, predictive modeling, and more. Each project is accompanied by a Jupyter notebook detailing the data analysis process, from initial data exploration to model evaluation and interpretation.
